@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Yunagiri/Yunagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +22,8 @@ Hi! My name is Viet Phuong DINH, graduate engineering student at the french univ
 
 
 # ⚡ What do I speak ⚡
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunagiri&theme=tokyonight&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Yunagiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunagiri&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
