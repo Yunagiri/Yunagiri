@@ -27,6 +27,12 @@ Hi! My name is Viet Phuong DINH, graduate engineering student at the french univ
 
 [![Yunagiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunagiri&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 # ✨ Fields of interests ✨
 
