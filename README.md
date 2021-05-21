@@ -23,7 +23,7 @@ Hi! My name is Viet Phuong DINH, graduate engineering student at the french univ
 
 # ⚡ What do I speak ⚡
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunagiri&theme=tokyonight&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunagiri&theme=tokyonight&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 🌱 My track record 🌱
