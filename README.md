@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 
 # 💬 About me 💬 
 
-Hi! My name is Viet Phuong DINH, graduate engineering student at the french university UTT. I am specialized in Systems, Networking and Telecommunications and am heavily interested in the idea of bringing intelligence to the edge: Robots, autonomous decision makings, electronics and communication between sensors.. all these notions speak to me. I am a senior member of the club of Robotics of my university, and am currently interning at Consignity, a start-up company specialized in industrial IoT solutions.
+Hi! My name is Viet Phuong DINH, graduate engineering student at the french university UTT. 
+
+I am specialized in Systems, Networking and Telecommunications and am heavily interested in the idea of bringing intelligence to the edge: Robots, autonomous decision makings, electronics and communication between sensors... all these notions speak to me. 
+
+I am a senior member of the club of Robotics of my university, and am currently interning at Consignity, a start-up company specialized in industrial IoT solutions.
 
 
 # ⚡ What do I speak ⚡
