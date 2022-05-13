@@ -22,8 +22,7 @@ Hi! My name is Viet Phuong DINH, graduate engineering student at the french univ
 
 I am specialized in Systems, Networking and Telecommunications and am heavily interested in the idea of bringing intelligence to the edge: Robots, autonomous decision makings, electronics and communication between sensors... all these notions speak to me. 
 
-I am a senior member of the club of Robotics of my university, and I'm looking for job opportunities all around the world in the IoT field.
-
+Senior member of the club of Robotics of my university, I am currently working as a wireless firmware engineer intern at Schneider Electric, in the Connected Systems division. My main line of work is the evaluation of a concurrent multi-protocol Zigbee/OpenThread stack, this includes setting up a test environnement, scripting said tests, and analyzing results to present the state of the art.
 
 # ⚡ What do I speak ⚡
 
