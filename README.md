@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # 💬 About me 💬 
 
-Hi! My name is Viet Phuong DINH, autonomous stuff enthousiast. 
+Hi! My name is Lucien, autonomous stuff enthousiast. 
 
 I am specialized in Systems, Networking and Telecommunications and am heavily interested in the idea of bringing intelligence to the edge: Robots, autonomous decision makings, electronics and communication between sensors... all these notions speak to me. 
 
